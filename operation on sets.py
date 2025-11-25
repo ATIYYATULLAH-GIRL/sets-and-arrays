@@ -1,0 +1,14 @@
+set4={1,2,5,4,6,9,3,7}
+print(set4)
+set1={5,5.5,True,"Hi",(1,2,3)}
+print(set1)
+set2={1,2,3,4,3,2,4}
+print(set2)
+list1=[1,2,3,2]
+set3=set(list1)
+print(set3)
+list2=[0,1,3,4,5]
+set5=set(list2)
+print(set5)
+set5.pop()
+print(set5)
